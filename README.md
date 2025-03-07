@@ -44,5 +44,7 @@ python train.py
 python inference.py
 ```
 
-## 📜 References
-- Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). "Attention Is All You Need". NeurIPS.
+## RESULTS
+In the epoch 21, the model is capable of the next translations:
+![image](https://github.com/user-attachments/assets/615bd154-c891-456f-a155-4010e219273c)
+
