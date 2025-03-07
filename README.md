@@ -46,5 +46,6 @@ python inference.py
 
 ## RESULTS
 In the epoch 21, the model is capable of the next translations:
+
 ![image](https://github.com/user-attachments/assets/615bd154-c891-456f-a155-4010e219273c)
 
